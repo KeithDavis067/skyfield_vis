@@ -1,0 +1,8 @@
+dyld[60857]: Library not loaded: @loader_path/../../../../Python.framework/Versions/3.11/Python
+  Referenced from: <430E089A-35B0-314B-9FD1-1E60F9CE5756> /Users/kdavis10/Library/Application Support/pypoetry/venv/bin/python3.11
+  Reason: tried: '/Users/kdavis10/Library/Application Support/pypoetry/venv/bin/../../../../Python.framework/Versions/3.11/Python' (no such file), '/Library/Frameworks/Python.framework/Versions/3.11/Python' (no such file), '/System/Library/Frameworks/Python.framework/Versions/3.11/Python' (no such file, not in dyld cache)
+
+Traceback:
+
+  File "<stdin>", line 923, in main
+  File "<stdin>", line 562, in run
